@@ -4,5 +4,8 @@
 </p>
 
 ## Required Environment and Dependencies
-1: Tensorflow-GPU-2.3.0
+- Python 3.6
+- Tensorflow-GPU-2.3.0
+
+
 
