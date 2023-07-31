@@ -6,6 +6,11 @@
 ## Environment and Dependencies
 - Python 3.6
 - Tensorflow-GPU-2.3.0
+- Keras 2.7.0
+- Pandas 1.1.5
+- Scikit-learn 0.23.1
+- CUDA 10.1
+- CuDNN 7.6
 
 ## Citation
 If you found this repository useful, please consider citing our work:
