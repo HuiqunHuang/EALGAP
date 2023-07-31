@@ -20,7 +20,7 @@ If you found this repository useful, please consider citing our work:
 }"><pre class="notranslate"><code>@article{huang2023extreme,
   title={Extreme-Aware Local-Global Attention for Spatio-Temporal Urban Mobility Learning},
   author={Huang, Huiqun and He, Suining and Tabatabaie, Mahan},
-  jbooktitle={2023 IEEE 39th International Conference on Data Engineering (ICDE)},
+  booktitle={2023 IEEE 39th International Conference on Data Engineering (ICDE)},
   pages={1059--1070},
   year={2023},
   organization={IEEE}
