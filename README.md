@@ -12,6 +12,9 @@
 - CUDA 10.1
 - CuDNN 7.6
 
+## Model Training & Evaluation
+python MainPredictionFunction/NYC_EALGAP_Main.py
+
 ## Citations
 If you found this repository useful, please consider citing our work:
 
