@@ -16,7 +16,7 @@
 python MainPredictionFunction/NYC_EALGAP_Main.py
 
 ## Citations
-If you found this repository useful, please consider citing our work:
+If you were using our codes or found this repository useful, please consider citing our work:
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@inproceedings{huang2023extreme,
   title={Extreme-Aware Local-Global Attention for Spatio-Temporal Urban Mobility Learning},
